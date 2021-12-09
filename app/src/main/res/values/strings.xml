@@ -1,5 +1,9 @@
 <resources>
     <string name="app_name">Course_work</string>
     <!-- TODO: Remove or change this placeholder text -->
-    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="hello_blank_fragment">Hello</string>
+    <string name="my_fragments">my_fragments</string>
+    <string name="switch_fragments">Switch_fragments</string>
+    <string name="start_fragment">Start fragment</string>
+    <string name="end_fragment">End fragment</string>
 </resources>
